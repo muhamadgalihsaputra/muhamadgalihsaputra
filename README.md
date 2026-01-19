@@ -6,7 +6,8 @@
 
 **Principal Architect @ [GalyarderLabs](https://galyarderlabs.app)**
 
-Fullstack. Web3. AI Systems. Infrastructure.
+Building GalyarderLabs — the Future of Blockchain & AI Systems.  
+Redefining Wealth, Health, & Legacy.
  
 </div>
 
