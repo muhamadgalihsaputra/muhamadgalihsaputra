@@ -46,6 +46,11 @@ I build production systems where failure is not an option. Financial infrastruct
 
 <div align="center">
 
+[![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:founders@galyarderlabs.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhamad-galih-saputra)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/galyarder)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/galyarders)
+
 Indonesia | [galyarderlabs.app](https://galyarderlabs.app)
 
 </div>
