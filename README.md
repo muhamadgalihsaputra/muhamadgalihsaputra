@@ -44,20 +44,6 @@ I build production systems where failure is not an option. Financial infrastruct
 
 ---
 
-### Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhamadgalihsaputra&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&icon_color=58A6FF&text_color=8B949E&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhamadgalihsaputra&theme=dark&hide_border=true&background=0D1117&stroke=8B949E&ring=58A6FF&fire=58A6FF&currStreakLabel=ffffff)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhamadgalihsaputra&theme=github-dark&hide_border=true&bg_color=0D1117&color=8B949E&line=58A6FF&point=ffffff)
-
-</div>
-
----
-
 <div align="center">
 
 Indonesia | [galyarderlabs.app](https://galyarderlabs.app)
