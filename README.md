@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./logo.png" width="120" alt="GalyarderLabs">
-
 # Muhamad Galih Saputra
+
+<img src="./logo.png" width="120" alt="GalyarderLabs">
 
 **Principal Architect @ [GalyarderLabs](https://galyarderlabs.app)**
 
