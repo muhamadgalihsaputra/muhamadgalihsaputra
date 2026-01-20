@@ -4,7 +4,7 @@
 
 <img src="./logo.png" width="120" alt="GalyarderLabs">
 
-**Principal Architect @ [GalyarderLabs](https://galyarderlabs.app)**
+**Building @ [GalyarderLabs](https://galyarderlabs.app)**
 
 Building GalyarderLabs — the Future of Blockchain & AI Systems.  
 Redefining Wealth, Health, & Legacy.
