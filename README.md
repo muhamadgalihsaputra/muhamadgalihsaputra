@@ -1,13 +1,13 @@
 <div align="center">
 
 # Muhamad Galih Saputra
+Redefining Wealth, Health, & Legacy.
 
 <img src="./logo.png" width="120" alt="GalyarderLabs">
 
 **Building @ [GalyarderLabs](https://galyarderlabs.app)**
 
-Building GalyarderLabs — the Future of Blockchain & AI Systems.  
-Redefining Wealth, Health, & Legacy.
+Fullstack. Web3. AI Systems. Infrastructure.
  
 </div>
 
