@@ -1,13 +1,11 @@
 <div align="center">
 
 # Muhamad Galih Saputra
-Redefining Wealth, Health, & Legacy.
-
 <img src="./logo.png" width="120" alt="GalyarderLabs">
 
-**Building @ [GalyarderLabs](https://galyarderlabs.app)**
+**Lead Architect @ [Galyarder Labs](https://hub.galyarderlabs.app)**
 
-Fullstack. Web3. AI Systems. Infrastructure.
+Autonomous AI Systems | Web3 Infrastructure | Scalable Execution
  
 </div>
 
@@ -24,27 +22,23 @@ Fullstack. Web3. AI Systems. Infrastructure.
 
 ---
 
-### Philosophy
+### Engineering Philosophy
 
-Autonomous Agents and Sovereign Systems are the final frontier of financial sovereignty. **Systematic alpha. Economic leverage. Operational freedom.**
+The market does not reward effort; it rewards leverage. While most rely on manual execution and generic tools, I architect systems that operate 24/7 without fatigue.
 
-*No validation required. Only efficiency.*
+**Code is the only truth.** Manual research is a liability. If a workflow requires daily human input, the system is fundamentally flawed.
 
-Production systems where failure is not an option. Financial infrastructure, autonomous AI agents, smart contracts, cryptographic integrity—where a bug costs money and a vulnerability costs everything.
+**Sovereignty by default.** Capital and data must reside on decentralized, non-custodial infrastructure. Value is mathematically owned, not rented.
 
-**Data over opinion.** Every claim requires evidence. Logs, traces, metrics, tests. If it's not in the log, it didn't happen.
-
-**Security by default.** Input is hostile until validated. Output is dangerous until sanitized. Trust boundaries exist for a reason.
-
-**Fail fast, fail loud.** Silent failures are production nightmares. Errors surface with context—what failed, why, and how to fix it.
+**Production Integrity.** Security is not an option. I build in environments where execution must be low-latency, a vulnerability costs capital, and failures are immediately logged and sanitized.
 
 ---
 
 ### Operational Focus
 
-- **Self-sustaining economic engines** — operators own their systems. Control their cashflow.
-- **Proprietary protocols** — raw market data and operational chaos transformed into actionable, high-value signal.
-- **Autonomous AI agents** — complex strategies executed 24/7. Manual labor replaced.
+- **The Brain (AI Agents)** — cloning human decision patterns into specialized code. Manual labor replaced.
+- **The Rails (Web3)** — self-sustaining economic engines, smart contracts, and cryptographic integrity.
+- **The Loop (Data)** — raw market data and operational chaos transformed into automated, high-value signals.
 
 ---
 
