@@ -3,9 +3,9 @@
 # Muhamad Galih Saputra
 <img src="./logo.png" width="118" alt="Galyarder Labs">
 
-**Building AI agents, automation tools, and practical web products.**
+**I build systems for ideas that are too important to stay in someone’s head.**
 
-Bogor, Indonesia · currently building around Galyarder Labs.
+Bogor, Indonesia · Galyarder Labs · AI agents · automation · execution systems
 
 </div>
 
@@ -22,66 +22,55 @@ Bogor, Indonesia · currently building around Galyarder Labs.
 
 ---
 
-### About
+### Signal
 
-I’m interested in how people think, decide, work, and repeat patterns — then turning those observations into tools that make execution clearer.
+I am not only interested in software as an interface.
 
-Most of what I build is still evolving, but the direction is simple: practical software, useful automation, and systems that can be checked instead of just trusted.
+I am interested in software as memory, leverage, and continuity.
 
----
+Most work breaks in the gap between intention and execution: ideas scatter, decisions lose context, and people repeat patterns they never track.
 
-### Current focus
+I build around that gap — agents, workflows, dashboards, ledgers, and automation that make work visible enough to continue.
 
-- AI agents and workflow automation
-- web products and dashboards
-- finance / operations tooling
-- local-first systems and browser automation
-- cryptography and ownership when it has a real use
+The vision is simple: build enough leverage that one determined person can keep moving, even when the path is still unfinished.
 
 ---
 
-### How I work
+### Current direction
 
-- observe before judging
-- look for patterns, not noise
-- build small, verify, improve
-- stay patient with failure, but keep moving
+- AI agents that can use tools, remember context, and help carry real workflows
+- browser and local automation for repetitive operational work
+- finance and operations systems where actions leave evidence
+- web products that make decisions, state, and progress easier to inspect
+- cryptography and Web3 when ownership or verification is the point
 
 ---
 
-### Stack
+### How I think
 
-**Frontend / Product**
+- observe before speaking
+- patterns reveal more than events
+- every system has incentives, friction, and hidden failure modes
+- build small, verify, adapt
+- losing is data if the mission survives
+- the long game matters
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+---
 
-**Backend / Data / Agents**
+### Tools I use
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-**Infrastructure / Verification**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+```txt
+Frontend       React · Next.js · TypeScript · Tailwind · Vite · Vue
+Backend        Python · Node.js · Go · Rust
+Data           PostgreSQL · Redis
+Infra          Docker · Linux · Nginx · Terraform
+Ownership      Solidity · Ethereum
+```
 
 ---
 
 <div align="center">
 
-**Observe. Build. Verify. Improve.**
+**Observe. Build. Verify. Adapt.**
 
 </div>
