@@ -3,11 +3,9 @@
 # Muhamad Galih Saputra
 <img src="./logo.png" width="118" alt="Galyarder Labs">
 
-**Founder-builder @ [Galyarder Labs](https://hub.galyarderlabs.app)**
+**I’m Galih — building around AI agents, automation, and practical web products.**
 
-Building practical AI agents, automation systems, and web products for execution, knowledge, and operations.
-
-Bogor, Indonesia
+Bogor, Indonesia · Galyarder Labs
 
 </div>
 
@@ -24,34 +22,34 @@ Bogor, Indonesia
 
 ---
 
-### Who am I?
+### About
 
-I’m a developer and founder from Bogor, Indonesia.
+One title does not really describe me.
 
-I build tools that turn scattered work into systems people can use, inspect, and improve. My current work is centered on Galyarder Labs: practical AI agents, workflow automation, finance/ops infrastructure, and knowledge systems.
+I’m someone who observes, learns, and builds. Most of my work right now is around Galyarder Labs: AI agents, workflow automation, knowledge systems, finance / operations tools, and web products.
 
-I care about shipping useful products, keeping systems understandable, and building leverage without losing ownership.
+I care about building things that are useful, understandable, and easier to continue after the first version ships.
 
 ---
 
-### Current focus
+### Current direction
 
-- AI agents and agentic workflows
+- AI agents and workflow automation
 - knowledge systems and context-aware tools
-- finance / operations infrastructure
-- dashboards and internal tools for execution
+- finance / operations tooling
+- dashboards and internal tools
 - browser automation and local-first workflows
-- cryptography / Web3 when it improves ownership or verification
+- cryptography / Web3 when ownership or verification matters
 
 ---
 
-### Working principles
+### What I value in systems
 
-- ship real things, not just concepts
-- keep outputs inspectable: logs, state, tests, reviews
-- make tools practical enough to use under pressure
-- build small, learn fast, improve continuously
-- prefer clarity, leverage, and ownership over noise
+- useful output over noise
+- clear state, logs, tests, and reviews
+- small iterations that can actually ship
+- tools that support human judgment
+- ownership, patience, and long-term improvement
 
 ---
 
@@ -88,6 +86,6 @@ I care about shipping useful products, keeping systems understandable, and build
 
 <div align="center">
 
-**Building useful systems with an execution-first mindset.**
+**Building useful things, slowly and seriously.**
 
 </div>
