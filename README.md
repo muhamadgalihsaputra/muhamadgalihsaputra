@@ -3,9 +3,9 @@
 # Muhamad Galih Saputra
 <img src="./logo.png" width="118" alt="Galyarder Labs">
 
-**I work on AI agents, automation, and web products for Galyarder Labs.**
+**I build AI agents, automation, and web products for practical execution.**
 
-Bogor, Indonesia · building practical systems for work, memory, and execution.
+Bogor, Indonesia · Galyarder Labs · observation, systems, evidence, and long-game execution.
 
 </div>
 
@@ -26,7 +26,19 @@ Bogor, Indonesia · building practical systems for work, memory, and execution.
 
 I'm building Galyarder Labs as a practical AI and automation workspace: agents, tools, dashboards, and workflows that help turn messy work into something easier to track, review, and improve.
 
-My current work is mostly around AI agents, local-first tooling, finance/operations workflows, and web applications. I care about systems that are useful in real life: clear inputs, visible output, logs, reviews, and ownership.
+My work is shaped by a simple habit: observe first, then build. I care about patterns more than isolated events, evidence more than claims, and systems that stay useful after the first version breaks.
+
+---
+
+### How I work
+
+- Observe more than I speak.
+- Look for patterns, not just one-off events.
+- Separate what is observed, inferred, and assumed.
+- Treat friction, emotion, and repeated behavior as signals.
+- Build small systems, test them, and improve from the result.
+- Prefer concrete output over performance.
+- Play the long game: learn from losses, adapt, and keep moving toward the decisive win.
 
 ---
 
@@ -36,17 +48,7 @@ My current work is mostly around AI agents, local-first tooling, finance/operati
 - Web products and dashboards with React, Next.js, TypeScript, and Tailwind
 - Finance and operations workflows with evidence, approvals, and audit trails
 - Local automation around browser work, GitHub, Google Workspace, and internal tools
-- Exploring cryptography and Web3 where ownership or verification actually matters
-
----
-
-### How I work
-
-- Keep the system simple until it needs more structure.
-- Build, test, verify, then improve.
-- Prefer concrete output over big claims.
-- Use automation to support human judgment, not replace it.
-- If something matters, make it inspectable.
+- Cryptography and Web3 where ownership or verification actually matters
 
 ---
 
@@ -83,6 +85,6 @@ My current work is mostly around AI agents, local-first tooling, finance/operati
 
 <div align="center">
 
-**Building useful systems, one verified output at a time.**
+**Observe. Build. Verify. Adapt.**
 
 </div>
