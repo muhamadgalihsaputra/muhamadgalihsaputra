@@ -3,9 +3,9 @@
 # Muhamad Galih Saputra
 <img src="./logo.png" width="118" alt="Galyarder Labs">
 
-**I build AI agents, automation, and web products for practical execution.**
+**Building AI agents, automation tools, and practical web products.**
 
-Bogor, Indonesia · Galyarder Labs · observation, systems, evidence, and long-game execution.
+Bogor, Indonesia · currently building around Galyarder Labs.
 
 </div>
 
@@ -24,31 +24,28 @@ Bogor, Indonesia · Galyarder Labs · observation, systems, evidence, and long-g
 
 ### About
 
-I'm building Galyarder Labs as a practical AI and automation workspace: agents, tools, dashboards, and workflows that help turn messy work into something easier to track, review, and improve.
+I’m interested in how people think, decide, work, and repeat patterns — then turning those observations into tools that make execution clearer.
 
-My work is shaped by a simple habit: observe first, then build. I care about patterns more than isolated events, evidence more than claims, and systems that stay useful after the first version breaks.
-
----
-
-### How I work
-
-- Observe more than I speak.
-- Look for patterns, not just one-off events.
-- Separate what is observed, inferred, and assumed.
-- Treat friction, emotion, and repeated behavior as signals.
-- Build small systems, test them, and improve from the result.
-- Prefer concrete output over performance.
-- Play the long game: learn from losses, adapt, and keep moving toward the decisive win.
+Most of what I build is still evolving, but the direction is simple: practical software, useful automation, and systems that can be checked instead of just trusted.
 
 ---
 
 ### Current focus
 
-- AI agents that use tools, remember context, and help execute real workflows
-- Web products and dashboards with React, Next.js, TypeScript, and Tailwind
-- Finance and operations workflows with evidence, approvals, and audit trails
-- Local automation around browser work, GitHub, Google Workspace, and internal tools
-- Cryptography and Web3 where ownership or verification actually matters
+- AI agents and workflow automation
+- web products and dashboards
+- finance / operations tooling
+- local-first systems and browser automation
+- cryptography and ownership when it has a real use
+
+---
+
+### How I work
+
+- observe before judging
+- look for patterns, not noise
+- build small, verify, improve
+- stay patient with failure, but keep moving
 
 ---
 
@@ -85,6 +82,6 @@ My work is shaped by a simple habit: observe first, then build. I care about pat
 
 <div align="center">
 
-**Observe. Build. Verify. Adapt.**
+**Observe. Build. Verify. Improve.**
 
 </div>
