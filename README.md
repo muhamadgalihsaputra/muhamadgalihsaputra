@@ -1,48 +1,63 @@
 <div align="center">
 
 # Muhamad Galih Saputra
-<img src="./logo.png" width="120" alt="GalyarderLabs">
+<img src="./logo.png" width="118" alt="Galyarder Labs">
 
-**Lead Architect @ [Galyarder Labs](https://hub.galyarderlabs.app)**
+**Building Galyarder Labs — autonomous execution infrastructure for serious human intent.**
 
-Autonomous AI Systems | Web3 Infrastructure | Scalable Execution
- 
+I build systems that help one person think, decide, execute, verify, and own more of their work — without becoming passive inside the machine.
+
 </div>
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:founders@galyarderlabs.app)
+[![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=protonmail&logoColor=white)](mailto:muhamadgalihsaputra@proton.me)
+[![Galyarder Labs](https://img.shields.io/badge/Galyarder%20Labs-6D4AFF?style=flat-square&logo=safari&logoColor=white)](https://hub.galyarderlabs.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhamad-galih-saputra)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/galyarder)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/galyarders)
-[![Hub](https://img.shields.io/badge/Hub-000000?style=flat-square&logo=safari&logoColor=white)](https://hub.galyarderlabs.app)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/galyarder)
 
 </div>
 
 ---
 
-### Engineering Philosophy
+### What I am building
 
-The market does not reward effort; it rewards leverage. While most rely on manual execution and generic tools, I architect systems that operate 24/7 without fatigue.
+Galyarder Labs is my work around turning fragile human intent into persistent execution systems.
 
-**Code is the only truth.** Manual research is a liability. If a workflow requires daily human input, the system is fundamentally flawed.
+- **Dream → Airlock → Machine** — from vision, to protected clarity, to operational systems.
+- **Ledger** — work and financial state with evidence, approvals, review queues, and audit trails.
+- **HQ** — a command layer for decisions, agents, tasks, memory, and operational visibility.
+- **Framework / Agent** — durable memory, skill routing, tools, and role-based agents that operate under human command.
 
-**Sovereignty by default.** Capital and data must reside on decentralized, non-custodial infrastructure. Value is mathematically owned, not rented.
-
-**Production Integrity.** Security is not an option. I build in environments where execution must be low-latency, a vulnerability costs capital, and failures are immediately logged and sanitized.
+The goal is not “AI replacing people.” The goal is a high-agency human with better memory, sharper judgment, clearer ownership, and execution that can be inspected.
 
 ---
 
-### Operational Focus
+### How I think
 
-- **The Brain (AI Agents)** — cloning human decision patterns into specialized code. Manual labor replaced.
-- **The Rails (Web3)** — self-sustaining economic engines, smart contracts, and cryptographic integrity.
-- **The Loop (Data)** — raw market data and operational chaos transformed into automated, high-value signals.
+- Observe patterns before conclusions.
+- Build small systems that compound.
+- Treat tools as hands, memory as continuity, and logs/diffs/tests as proof.
+- Prefer ownership over dependency, evidence over hype, and useful output over performance.
+- Automation should expand human agency, not erase it.
+
+---
+
+### Current focus
+
+- Autonomous AI agents and multi-agent operating systems
+- Financial execution workspaces and ledger-backed workflows
+- Memory systems, skill systems, profile distributions, and local-first agent infrastructure
+- Browser automation, internal control planes, and evidence-backed workflows
+- Cryptographic ownership and Web3 infrastructure when it strengthens operational truth
 
 ---
 
 ### Stack
+
+**Frontend / Product**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -51,29 +66,28 @@ The market does not reward effort; it rewards leverage. While most rely on manua
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 
+**Systems / Data / Agents**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black)
-![Foundry](https://img.shields.io/badge/Foundry-000000?style=flat-square&logo=ethereum&logoColor=white)
-![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=flat-square&logo=chainlink&logoColor=white)
-![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white)
+**Infrastructure / Ownership**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 
 ---
+
 <div align="center">
 
-   Empowering Human Intent.
+**I am not trying to look busy. I am trying to make human intent executable.**
+
 </div>
