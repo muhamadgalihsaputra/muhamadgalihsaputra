@@ -3,9 +3,9 @@
 # Muhamad Galih Saputra
 <img src="./logo.png" width="118" alt="Galyarder Labs">
 
-**Building Galyarder Labs — autonomous execution infrastructure for serious human intent.**
+**I work on AI agents, automation, and web products for Galyarder Labs.**
 
-I build systems that help one person think, decide, execute, verify, and own more of their work — without becoming passive inside the machine.
+Bogor, Indonesia · building practical systems for work, memory, and execution.
 
 </div>
 
@@ -22,36 +22,31 @@ I build systems that help one person think, decide, execute, verify, and own mor
 
 ---
 
-### What I am building
+### About
 
-Galyarder Labs is my work around turning fragile human intent into persistent execution systems.
+I'm building Galyarder Labs as a practical AI and automation workspace: agents, tools, dashboards, and workflows that help turn messy work into something easier to track, review, and improve.
 
-- **Dream → Airlock → Machine** — from vision, to protected clarity, to operational systems.
-- **Ledger** — work and financial state with evidence, approvals, review queues, and audit trails.
-- **HQ** — a command layer for decisions, agents, tasks, memory, and operational visibility.
-- **Framework / Agent** — durable memory, skill routing, tools, and role-based agents that operate under human command.
-
-The goal is not “AI replacing people.” The goal is a high-agency human with better memory, sharper judgment, clearer ownership, and execution that can be inspected.
-
----
-
-### How I think
-
-- Observe patterns before conclusions.
-- Build small systems that compound.
-- Treat tools as hands, memory as continuity, and logs/diffs/tests as proof.
-- Prefer ownership over dependency, evidence over hype, and useful output over performance.
-- Automation should expand human agency, not erase it.
+My current work is mostly around AI agents, local-first tooling, finance/operations workflows, and web applications. I care about systems that are useful in real life: clear inputs, visible output, logs, reviews, and ownership.
 
 ---
 
 ### Current focus
 
-- Autonomous AI agents and multi-agent operating systems
-- Financial execution workspaces and ledger-backed workflows
-- Memory systems, skill systems, profile distributions, and local-first agent infrastructure
-- Browser automation, internal control planes, and evidence-backed workflows
-- Cryptographic ownership and Web3 infrastructure when it strengthens operational truth
+- AI agents that use tools, remember context, and help execute real workflows
+- Web products and dashboards with React, Next.js, TypeScript, and Tailwind
+- Finance and operations workflows with evidence, approvals, and audit trails
+- Local automation around browser work, GitHub, Google Workspace, and internal tools
+- Exploring cryptography and Web3 where ownership or verification actually matters
+
+---
+
+### How I work
+
+- Keep the system simple until it needs more structure.
+- Build, test, verify, then improve.
+- Prefer concrete output over big claims.
+- Use automation to support human judgment, not replace it.
+- If something matters, make it inspectable.
 
 ---
 
@@ -66,7 +61,7 @@ The goal is not “AI replacing people.” The goal is a high-agency human with 
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 
-**Systems / Data / Agents**
+**Backend / Data / Agents**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -75,7 +70,7 @@ The goal is not “AI replacing people.” The goal is a high-agency human with 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-**Infrastructure / Ownership**
+**Infrastructure / Verification**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -88,6 +83,6 @@ The goal is not “AI replacing people.” The goal is a high-agency human with 
 
 <div align="center">
 
-**I am not trying to look busy. I am trying to make human intent executable.**
+**Building useful systems, one verified output at a time.**
 
 </div>
