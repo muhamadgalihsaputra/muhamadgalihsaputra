@@ -4,253 +4,402 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Muhamad Galih Saputra</title>
-    <meta name="description" content="Builder at Galyarder Labs and Niyatna. AI agents, agentic systems, and tools that should exist.">
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <meta name="description" content="Builder at Galyarder Labs and Niyatna. Building systems that should exist.">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
+        :root {
+            --red: #FF1001;
+            --red-dim: rgba(255, 16, 1, 0.12);
+            --bg: #0a0a0a;
+            --bg2: #111111;
+            --bg3: #181818;
+            --border: #1f1f1f;
+            --text: #e5e5e5;
+            --muted: #666;
+            --muted2: #999;
         }
 
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        html { scroll-behavior: smooth; }
+
         body {
-            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
-            background: #0a0a0a;
-            color: #e5e5e5;
+            font-family: 'Inter', -apple-system, sans-serif;
+            background: var(--bg);
+            color: var(--text);
             line-height: 1.6;
             min-height: 100vh;
         }
 
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 60px 24px;
+        /* ── BANNER ── */
+        .banner-wrap {
+            width: 100%;
+            background: #000;
+            display: flex;
+            justify-content: center;
+            padding: 40px 24px 0;
         }
 
-        /* Header */
+        .banner-wrap a {
+            display: block;
+            max-width: 860px;
+            width: 100%;
+        }
+
+        .banner-wrap img {
+            width: 100%;
+            border-radius: 12px;
+            display: block;
+        }
+
+        /* ── CONTAINER ── */
+        .container {
+            max-width: 860px;
+            margin: 0 auto;
+            padding: 40px 24px 80px;
+        }
+
+        /* ── HEADER ── */
         .header {
             text-align: center;
             margin-bottom: 48px;
+            padding-top: 8px;
         }
 
         .header h1 {
-            font-size: 2.5rem;
+            font-size: 2rem;
             font-weight: 700;
             color: #fff;
-            margin-bottom: 12px;
+            margin-bottom: 6px;
+            letter-spacing: -0.02em;
         }
 
-        .title {
-            font-size: 1rem;
-            color: #FF1001;
-            margin-bottom: 8px;
+        .header .subtitle {
+            font-size: 0.9rem;
+            color: var(--muted2);
+            margin-bottom: 24px;
         }
 
-        .title a {
-            color: #FF1001;
+        .header .subtitle a {
+            color: var(--red);
             text-decoration: none;
         }
 
-        .title a:hover {
-            text-decoration: underline;
-        }
+        .header .subtitle a:hover { text-decoration: underline; }
 
-        .tagline {
-            color: #737373;
-            font-size: 0.95rem;
-        }
-
-        /* Social Links */
-        .social-links {
+        /* badges row */
+        .badges {
             display: flex;
             justify-content: center;
-            flex-wrap: wrap;
             gap: 8px;
-            margin-top: 24px;
+            flex-wrap: wrap;
+            margin-bottom: 20px;
         }
 
-        .social-links a img {
-            height: 24px;
-            transition: opacity 0.2s;
+        .badges img { height: 28px; }
+
+        /* connect buttons */
+        .connect-links {
+            display: flex;
+            justify-content: center;
+            gap: 8px;
+            flex-wrap: wrap;
         }
 
-        .social-links a:hover img {
-            opacity: 0.8;
+        .connect-links a {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            padding: 7px 14px;
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            background: var(--bg3);
+            color: var(--muted2);
+            font-size: 0.8rem;
+            text-decoration: none;
+            transition: all 0.18s;
         }
 
-        /* Sections */
-        .section {
-            margin-bottom: 48px;
-        }
-
-        .section h2 {
-            font-size: 1.25rem;
-            font-weight: 600;
+        .connect-links a:hover {
+            border-color: var(--red);
             color: #fff;
+            background: var(--red-dim);
+        }
+
+        /* ── DIVIDER ── */
+        hr {
+            border: none;
+            border-top: 1px solid var(--border);
+            margin: 36px 0;
+        }
+
+        /* ── SECTION ── */
+        .section { margin-bottom: 40px; }
+
+        .section-title {
+            font-size: 0.7rem;
+            font-weight: 600;
+            letter-spacing: 0.1em;
+            text-transform: uppercase;
+            color: var(--red);
             margin-bottom: 16px;
-            padding-bottom: 8px;
-            border-bottom: 1px solid #262626;
         }
 
         .section p {
-            color: #a3a3a3;
-            margin-bottom: 12px;
+            color: var(--muted2);
+            font-size: 0.9rem;
+            margin-bottom: 10px;
+            max-width: 640px;
         }
 
-        .section strong {
-            color: #fff;
-        }
+        .section strong { color: #fff; }
 
-        .section em {
-            color: #FF1001;
-            font-style: italic;
-        }
-
-        /* List */
-        .focus-list {
-            list-style: none;
-        }
+        /* ── FOCUS LIST ── */
+        .focus-list { list-style: none; }
 
         .focus-list li {
-            color: #a3a3a3;
-            margin-bottom: 12px;
-            padding-left: 20px;
+            color: var(--muted2);
+            font-size: 0.88rem;
+            padding: 10px 0 10px 20px;
+            border-bottom: 1px solid var(--border);
             position: relative;
         }
+
+        .focus-list li:last-child { border-bottom: none; }
 
         .focus-list li::before {
             content: "→";
             position: absolute;
             left: 0;
-            color: #FF1001;
+            color: var(--red);
         }
 
-        .focus-list li strong {
-            color: #fff;
+        .focus-list li strong { color: #fff; }
+
+        /* ── STACK ── */
+        .stack-grid {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
         }
 
-        /* Stack */
         .stack-row {
             display: flex;
             flex-wrap: wrap;
             gap: 6px;
-            margin-bottom: 12px;
+            align-items: center;
         }
 
         .stack-row img {
-            height: 22px;
+            height: 36px;
+            border-radius: 6px;
+            transition: transform 0.15s, opacity 0.15s;
         }
 
-        /* Divider */
-        hr {
+        .stack-row img:hover {
+            transform: translateY(-2px);
+            opacity: 0.9;
+        }
+
+        /* ── CONTRIBUTION GRAPH ── */
+        .graph-wrap {
+            width: 100%;
+            overflow: hidden;
+            border-radius: 10px;
+            border: 1px solid var(--border);
+        }
+
+        .graph-wrap img {
+            width: 100%;
+            display: block;
+        }
+
+        /* ── CAUTION BOX ── */
+        .caution-box {
+            display: flex;
+            align-items: flex-start;
+            gap: 16px;
+            background: var(--bg3);
+            border: 1px solid var(--border);
+            border-left: 3px solid var(--red);
+            border-radius: 10px;
+            padding: 16px 20px;
+            margin-bottom: 40px;
+        }
+
+        .caution-box img {
+            width: 52px;
+            flex-shrink: 0;
+            margin-top: 2px;
+        }
+
+        .caution-box blockquote {
+            font-size: 0.88rem;
+            color: var(--muted2);
+            font-style: italic;
             border: none;
-            border-top: 1px solid #262626;
-            margin: 32px 0;
+            padding: 0;
         }
 
-        /* Footer */
+        .caution-box blockquote strong {
+            display: block;
+            color: #fff;
+            font-style: normal;
+            margin-top: 6px;
+            font-size: 0.8rem;
+        }
+
+        /* ── STATS ROW ── */
+        .stats-row {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 12px;
+        }
+
+        .stats-row img {
+            width: 100%;
+            border-radius: 8px;
+        }
+
+        /* ── FOOTER ── */
         .footer {
             text-align: center;
-            color: #525252;
-            font-size: 0.85rem;
-            margin-top: 48px;
+            color: var(--muted);
+            font-size: 0.8rem;
+            padding-top: 40px;
+            border-top: 1px solid var(--border);
         }
 
-        .footer a {
-            color: #FF1001;
-            text-decoration: none;
-        }
+        .footer a { color: var(--red); text-decoration: none; }
 
-        @media (max-width: 640px) {
-            .header h1 {
-                font-size: 1.75rem;
-            }
-
-            .container {
-                padding: 40px 16px;
-            }
+        @media (max-width: 600px) {
+            .header h1 { font-size: 1.5rem; }
+            .stats-row { grid-template-columns: 1fr; }
+            .banner-wrap { padding: 20px 16px 0; }
+            .container { padding: 28px 16px 60px; }
         }
     </style>
 </head>
 <body>
+
+    <!-- BANNER -->
+    <div class="banner-wrap">
+        <a href="https://github.com/muhamadgalihsaputra">
+            <img src="https://raw.githubusercontent.com/muhamadgalihsaputra/Glauedson/main/assets/images/banner.png" alt="Muhamad Galih Saputra" />
+        </a>
+    </div>
+
     <div class="container">
-        <!-- Header -->
+
+        <!-- HEADER -->
         <header class="header">
             <h1>Muhamad Galih Saputra</h1>
-            <p class="title">
-                <a href="https://galyarderlabs.app">Galyarder Labs</a> &amp;
+            <p class="subtitle">
+                <a href="https://galyarderlabs.app">Galyarder Labs</a>
+                &nbsp;·&nbsp;
                 <a href="https://niyatna.id">Niyatna</a>
             </p>
-            <p class="tagline">Building systems that should exist.</p>
 
-            <div class="social-links">
-                <a href="https://x.com/galyarder"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
-                <a href="https://linkedin.com/in/muhamad-galih-saputra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-                <a href="mailto:muhamadgalihsaputra@proton.me"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=protonmail&logoColor=white" alt="Email"></a>
-                <a href="https://t.me/galyarders"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
+            <!-- GitHub Badges -->
+            <div class="badges">
+                <a href="https://api.github-star-counter.workers.dev/user/muhamadgalihsaputra">
+                    <img src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000000&labelColor=FF1001&logoColor=ffffff&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/muhamadgalihsaputra" alt="Stars" />
+                </a>
+                <a href="https://github.com/muhamadgalihsaputra">
+                    <img src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=eye&color=000000&labelColor=FF1001&logoColor=ffffff&label=Profile+Views&style=for-the-badge&query=%24.views&url=https://views.igorkowalczyk.dev/api/json/muhamadgalihsaputra&cacheSeconds=0" alt="Profile Views" />
+                </a>
+                <a href="https://github.com/muhamadgalihsaputra?tab=followers">
+                    <img src="https://custom-icon-badges.herokuapp.com/github/followers/muhamadgalihsaputra?color=000000&labelColor=FF1001&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" alt="Followers" />
+                </a>
+            </div>
+
+            <!-- Connect -->
+            <div class="connect-links">
+                <a href="https://x.com/galyarder">𝕏 &nbsp;@galyarder</a>
+                <a href="https://linkedin.com/in/muhamad-galih-saputra">LinkedIn</a>
+                <a href="mailto:muhamadgalihsaputra@proton.me">Email</a>
+                <a href="https://t.me/galyarders">Telegram</a>
             </div>
         </header>
 
         <hr>
 
-        <!-- About -->
+        <!-- ABOUT -->
         <section class="section">
-            <h2>About</h2>
-            <p>I build systems that solve real problems. Most of my work is split between <strong>Galyarder Labs</strong> — autonomous AI agents, workflow automation, and context-aware knowledge systems — and <strong>Niyatna</strong>, where I work on the agentic-company formation layer.</p>
-            <p>I ship in small vertical iterations. Good systems have clear state, comprehensive logs, and robust tests. I focus on concrete utility over speculative noise.</p>
+            <p class="section-title">About</p>
+            <p>I build systems that should exist to solve real problems. My work is split between <strong>Galyarder Labs</strong> — autonomous AI agents, workflow automation, and context-aware knowledge systems — and <strong>Niyatna</strong>, where I work on the agentic-company formation layer.</p>
+            <p>I ship in small vertical iterations, prioritize concrete utility, and keep things clean, logged, and tested.</p>
         </section>
 
-        <hr>
-
-        <!-- Operational Focus -->
+        <!-- CURRENT FOCUS -->
         <section class="section">
-            <h2>Current Focus</h2>
+            <p class="section-title">Current Focus</p>
             <ul class="focus-list">
-                <li><strong>Autonomous AI agents</strong> — context-aware agents that operate workflows 24/7 without manual input.</li>
-                <li><strong>Agentic company formation</strong> — systems that turn human intent into verifiable, executable company work.</li>
-                <li><strong>Local-first infrastructure</strong> — command rooms, finance dashboards, and internal ops tooling built for real ownership.</li>
-                <li><strong>Web3 integration</strong> — cryptography and on-chain verification where ownership and decentralization matter.</li>
+                <li><strong>Autonomous AI agents</strong> — context-aware agents that run workflows 24/7 without manual input.</li>
+                <li><strong>Agentic company formation</strong> — turning human intent into verifiable, executable company work.</li>
+                <li><strong>Local-first infrastructure</strong> — command rooms, finance dashboards, and internal ops tooling.</li>
+                <li><strong>Web3 + cryptography</strong> — on-chain verification where ownership and decentralization matter.</li>
             </ul>
         </section>
 
         <hr>
 
-        <!-- Stack -->
+        <!-- CONTRIBUTION GRAPH -->
         <section class="section">
-            <h2>Stack</h2>
-
-            <div class="stack-row">
-                <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-                <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-                <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
-                <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
-                <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue">
-                <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind">
-            </div>
-
-            <div class="stack-row">
-                <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
-                <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
-                <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-                <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
-                <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-                <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
-            </div>
-
-            <div class="stack-row">
-                <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-                <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
-                <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform">
-                <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx">
-                <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity">
-                <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare">
+            <p class="section-title">Contributions</p>
+            <div class="graph-wrap">
+                <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhamadgalihsaputra&custom_title=Contribution+Activity&hide_border=true&theme=high-contrast&border_color=FF1001&bg_color=111111&radius=0&area_color=FF1001&area=true&point=ffffff&line=FF1001&days=30&text_color=ffffff&title_color=ffffff&include_all_commits=true&count_private=true" alt="Contribution Graph" />
             </div>
         </section>
 
-        <!-- Footer -->
+        <!-- STATS -->
+        <section class="section">
+            <div class="stats-row">
+                <img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=galyarderlabs&repo=galyarder-framework&theme=dark&bg_color=111111&title_color=FF1001&text_color=999999&hide_border=true&icon_color=FF1001&cache_seconds=86400" alt="Galyarder Framework" />
+                <img src="https://streak-stats.demolab.com?user=muhamadgalihsaputra&theme=dark&background=111111&ring=FF1001&fire=FF1001&currStreakNum=FFFFFF&card_width=400&sideNums=FFFFFF&currStreakLabel=FF1001&sideLabels=FF1001&dates=666666&hide_border=true" alt="GitHub Streak" />
+            </div>
+        </section>
+
+        <hr>
+
+        <!-- TECH STACK -->
+        <section class="section">
+            <p class="section-title">Tech Stack</p>
+            <div class="stack-grid">
+                <div class="stack-row">
+                    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" alt="Frontend core" />
+                </div>
+                <div class="stack-row">
+                    <img src="https://skillicons.dev/icons?i=tailwind,vite,vue,py,nodejs,go" alt="Frameworks" />
+                </div>
+                <div class="stack-row">
+                    <img src="https://skillicons.dev/icons?i=rust,postgres,redis,solidity,docker,linux" alt="Backend & infra" />
+                </div>
+                <div class="stack-row">
+                    <img src="https://skillicons.dev/icons?i=nginx,terraform,git,github,figma,postman" alt="DevOps & tools" />
+                </div>
+                <div class="stack-row">
+                    <img src="https://skillicons.dev/icons?i=discord,arch,notion,spotify,obsidian,bun" alt="Tools & misc" />
+                </div>
+            </div>
+        </section>
+
+        <hr>
+
+        <!-- CAUTION BOX -->
+        <div class="caution-box">
+            <img src="https://raw.githubusercontent.com/muhamadgalihsaputra/Glauedson/main/assets/icons/knife.png" alt="knife" />
+            <blockquote>
+                Systems only work when every part operates with absolute precision.
+                <strong>Designed with intent. Built for persistence.</strong>
+            </blockquote>
+        </div>
+
+        <!-- FOOTER -->
         <footer class="footer">
-            <p>© 2026 <a href="https://galyarderlabs.app">Galyarder Labs</a></p>
+            <p>© 2026 <a href="https://galyarderlabs.app">Galyarder Labs</a> · <a href="https://github.com/muhamadgalihsaputra/Glauedson">Glauedson</a></p>
         </footer>
+
     </div>
 </body>
 </html>
