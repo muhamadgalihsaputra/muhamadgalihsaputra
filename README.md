@@ -17,7 +17,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/muhamadgalihsaputra">
-    <img width="165px" 
+    <img width="120px" 
         alt="Profile Views" 
         title="Profile Views" 
         src="https://komarev.com/ghpvc/?username=muhamadgalihsaputra&style=for-the-badge&color=FF1001&label=VIEWS&abbreviated=true" /> 
@@ -25,7 +25,7 @@
 
   &nbsp;&nbsp;
   <a href="https://github.com/muhamadgalihsaputra?tab=followers">
-    <img width="150px" 
+    <img width="120px" 
         alt="Followers" 
         title="Github Followers" 
         src="https://custom-icon-badges.herokuapp.com/github/followers/muhamadgalihsaputra?color=000000&labelColor=FF1001&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" />
