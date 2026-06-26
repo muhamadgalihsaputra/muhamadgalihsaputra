@@ -56,7 +56,7 @@ In all my projects, I prioritize concrete utility and quality over speculative n
 <!-- badges -->
 <div align="center">
   <strong>Connect</strong>
-  <br>
+  <br><br>
 
   <!-- X -->
   <a href="https://x.com/galyarder" target="_blank">
