@@ -20,7 +20,7 @@
     <img width="165px" 
         alt="Profile Views" 
         title="Profile Views" 
-        src="https://komarev.com/ghpvc/?username=muhamadgalihsaputra&style=for-the-badge&color=FF1001&label=PROFILE+VIEWS&abbreviated=true" /> 
+        src="https://komarev.com/ghpvc/?username=muhamadgalihsaputra&style=for-the-badge&color=FF1001&label=VIEWS&abbreviated=true" /> 
   </a>
 
   &nbsp;&nbsp;
