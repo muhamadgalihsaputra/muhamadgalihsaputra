@@ -1,91 +1,124 @@
+<!-- Banner  -->
 <div align="center">
-
-# Muhamad Galih Saputra
-<img src="./logo.png" width="118" alt="Galyarder Labs">
-
-**I’m Galih — building around AI agents, automation, and practical web products.**
-
-Bogor, Indonesia · Galyarder Labs
-
+  <a href="https://github.com/muhamadgalihsaputra">
+    <img src="https://raw.githubusercontent.com/muhamadgalihsaputra/Glauedson/main/assets/images/banner.png" alt="Banner" width="70%" />
+  </a>
 </div>
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=protonmail&logoColor=white)](mailto:muhamadgalihsaputra@proton.me)
-[![Galyarder Labs](https://img.shields.io/badge/Galyarder%20Labs-6D4AFF?style=flat-square&logo=safari&logoColor=white)](https://hub.galyarderlabs.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhamad-galih-saputra)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/galyarder)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/galyarders)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/galyarder)
+  <a href="https://api.github-star-counter.workers.dev/user/muhamadgalihsaputra">
+    <img width="120px" 
+        alt="Stars" 
+        title="Stars Profile" 
+        src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000000&labelColor=FF1001&logoColor=ffffff&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/muhamadgalihsaputra" /> 
+  </a>
+  <a href="https://github.com/muhamadgalihsaputra">
+    <img width="165px" 
+        alt="Profile Views" 
+        title="Profile Views" 
+        src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=eye&color=000000&labelColor=FF1001&logoColor=ffffff&label=Profile+Views&style=for-the-badge&query=%24.views&url=https://views.igorkowalczyk.dev/api/json/muhamadgalihsaputra&cacheSeconds=0" /> 
+  </a>
+  <img src="https://views.igorkowalczyk.dev/api/badge/muhamadgalihsaputra" width="1" height="1" style="opacity: 0; position: absolute;" />
+  <a href="https://github.com/muhamadgalihsaputra?tab=followers">
+    <img width="150px" 
+        alt="Followers" 
+        title="Github Followers" 
+        src="https://custom-icon-badges.herokuapp.com/github/followers/muhamadgalihsaputra?color=000000&labelColor=FF1001&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" />
+  </a>
+</div>
+
+</br>
+
+<!-- Who am i? -->
+<img src="https://media.tenor.com/36y7ERdf9rsAAAAj/persona-5.gif" width=390 align="left">
+<div align="center">
+
+**Who Am I?**
+</div>
+
+<div align="justify">
+
+I'm Galih, and I focus on observing patterns, learning continuously, and building systems that should exist to solve real-world problems. Most of my work right now is split between Galyarder Labs and Niyatna, focusing on autonomous AI agents, workflow automation, and the systems that make companies agentic. I focus on creating systems that are immediately useful, clean, and built to last.
+
+To build these, I focus on local-first architectures, context-aware knowledge systems, and dedicated command rooms for internal operations. I design custom finance and operations infrastructure to provide clarity to business processes, and when ownership or decentralized verification is required, I integrate cryptography and Web3.
+
+In all my projects, I prioritize concrete utility and quality over speculative noise. I believe that good systems rely on having a clear state, comprehensive logs, robust tests, and thorough reviews. I prefer shipping in small, vertical iterations that deliver value quickly rather than building over-engineered systems. Ultimately, I design systems to empower human intent and reclaim human time through the leverage of technology, especially AI, while fostering true ownership, patience, and continuous long-term improvement in everything I build.
 
 </div>
 
----
+<br><br>
 
-### About
+<!-- badges -->
+<div align="center">
+  <strong>Connect</strong>
+  <br><br>
 
-One title does not really describe me.
+  <!-- X -->
+  <a href="https://x.com/galyarder" target="_blank">
+    <img width="65px" 
+          src="https://img.shields.io/badge/X-FF0000?style=for-the-badge&logo=x&logoColor=white" 
+          alt="X"
+          title="My X"/>
+  </a>
+  <!-- Linkedin -->
+  <a href="https://linkedin.com/in/muhamad-galih-saputra" target="_blank">
+    <img width="110px" 
+          src="https://img.shields.io/badge/Linkedin-FF0000?style=for-the-badge&logo=linkedin&logoColor=white" 
+          alt="Linkedin"
+          title="My Linkedin"/>
+  </a>
+  <!-- Mail  -->
+  <a href="mailto:muhamadgalihsaputra@proton.me" target="_blank">
+    <img width="105px" 
+          src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=protonmail&logoColor=white" 
+          alt="E-mail"
+          title="My E-mail"/>
+  </a>
 
-I’m someone who observes, learns, and builds. Most of my work right now is around Galyarder Labs: AI agents, workflow automation, knowledge systems, finance / operations tools, and web products.
+</div>
+</br>
 
-I care about building things that are useful, understandable, and easier to continue after the first version ships.
 
----
+<img src="https://raw.githubusercontent.com/muhamadgalihsaputra/Glauedson/main/assets/icons/knife.png" width=106px align="right">
 
-### Current direction
+> [!Caution]
+>
+> Systems only work when every part operates with absolute precision.
+>
+> Designed with intent, built for persistence.
 
-- AI agents and workflow automation
-- knowledge systems and context-aware tools
-- finance / operations tooling
-- dashboards and internal tools
-- browser automation and local-first workflows
-- cryptography / Web3 when ownership or verification matters
+</br>
 
----
+<!-- My contributions title -->
 
-### What I value in systems
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muhamadgalihsaputra&custom_title=My%20Contributions&hide_border=false&theme=high-contrast&border_color=FF1001&bg_color=transparent&radius=16&area_color=FF1001&area=true&point=ffffff&line=FF1001&days=10&text_color=ffffff&title_color=ffffff&include_all_commits=true&count_private=true)](https://github.com/caiquegomesdev/github-readme-activity-graph)
 
-- useful output over noise
-- clear state, logs, tests, and reviews
-- small iterations that can actually ship
-- tools that support human judgment
-- ownership, patience, and long-term improvement
 
----
-
-### Tech stack
-
-**Frontend / Product**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-
-**Backend / Data / Agents**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-**Infrastructure / Ownership**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-
----
+<table align="center" width="100%">
+  <tr>
+    <!-- Skills Left -->
+    <td valign="top" align="center" width="45%">
+      <h3>My Tech Stack</h3>
+      </br>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" /><br>
+      <img src="https://skillicons.dev/icons?i=tailwind,vite,vue,py,nodejs,go" /><br>
+      <img src="https://skillicons.dev/icons?i=rust,postgres,redis,solidity,docker,linux" /><br>
+      <img src="https://skillicons.dev/icons?i=nginx,terraform,git,github,figma,postman" /><br>
+      <img src="https://skillicons.dev/icons?i=discord,arch,notion,spotify,obsidian,bun" /><br>
+    </td>
+    <!---->
+    <td valign="top" align="center" width="55%">
+      <img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=galyarderlabs&repo=galyarder-framework&theme=dark&bg_color=FF1001&title_color=e0fbfc&text_color=000000&hide_border=true&description_lines_count=7&icon_color=ffffff&cache_seconds=86400" />
+      </br>
+      </br>
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=muhamadgalihsaputra&theme=dark&background=0D0D0D&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&card_width=401&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF" alt="GitHub Streak" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-
-**Building useful things, slowly and seriously.**
-
+  <img src="https://steamcdn-a.akamaihd.net/steam/apps/1382330/extras/2-citynightmare.gif?t=1608034435">
 </div>
