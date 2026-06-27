@@ -117,7 +117,7 @@ In all my projects, I prioritize concrete utility and quality over speculative n
       </br>
       </br>
       <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=muhamadgalihsaputra&theme=dark&background=0D0D0D&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&card_width=401&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF&cache_seconds=300" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com?user=muhamadgalihsaputra&theme=dark&background=0D0D0D&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&card_width=401&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF&cache_seconds=60" alt="GitHub Streak" />
       </a>
     </td>
   </tr>
