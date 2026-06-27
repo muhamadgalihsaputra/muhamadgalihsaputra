@@ -25,7 +25,7 @@
 
   &nbsp;&nbsp;
   <a href="https://github.com/muhamadgalihsaputra?tab=followers">
-    <img width="120px" 
+    <img width="150px" 
         alt="Followers" 
         title="Github Followers" 
         src="https://custom-icon-badges.herokuapp.com/github/followers/muhamadgalihsaputra?color=000000&labelColor=FF1001&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" />
