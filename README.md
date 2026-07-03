@@ -104,12 +104,12 @@ In all my projects, I prioritize concrete utility and quality over speculative n
     <!-- Skills Left -->
     <td valign="top" align="center" width="45%">
       <h3>My Tech Stack</h3>
-      </br><br><br>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" /><br>
-      <img src="https://skillicons.dev/icons?i=tailwind,vite,vue,py,nodejs,go" /><br>
-      <img src="https://skillicons.dev/icons?i=rust,postgres,redis,solidity,docker,linux" /><br>
-      <img src="https://skillicons.dev/icons?i=nginx,terraform,git,github,figma,postman" /><br>
-      <img src="https://skillicons.dev/icons?i=discord,arch,notion,spotify,obsidian,bun" /><br>
+      </br><br>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&perline=10" /><br>
+      <img src="https://skillicons.dev/icons?i=tailwind,vite,vue,py,nodejs,go&perline=10" /><br>
+      <img src="https://skillicons.dev/icons?i=rust,postgres,redis,solidity,docker,linux&perline=10" /><br>
+      <img src="https://skillicons.dev/icons?i=nginx,terraform,git,github,figma,postman&perline=10" /><br>
+      <img src="https://skillicons.dev/icons?i=discord,arch,notion,spotify,obsidian,bun&perline=10" /><br>
     </td>
     <!---->
     <td valign="top" align="center" width="55%">
