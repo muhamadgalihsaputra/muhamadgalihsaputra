@@ -104,7 +104,7 @@ In all my projects, I prioritize concrete utility and quality over speculative n
     <!-- Skills Left -->
     <td valign="top" align="center" width="45%">
       <h3>My Tech Stack</h3>
-      </br><br>
+      <br style="margin-bottom: 8px;" />
       <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&perline=10" /><br>
       <img src="https://skillicons.dev/icons?i=tailwind,vite,vue,py,nodejs,go&perline=10" /><br>
       <img src="https://skillicons.dev/icons?i=rust,postgres,redis,solidity,docker,linux&perline=10" /><br>
