@@ -1,7 +1,7 @@
 <!-- Banner  -->
 <div align="center">
   <a href="https://github.com/muhamadgalihsaputra">
-    <img src="https://raw.githubusercontent.com/muhamadgalihsaputra/Glauedson/main/assets/images/banner.png" alt="Banner" width="70%" />
+    <img src="https://raw.githubusercontent.com/muhamadgalihsaputra/readme/main/assets/images/banner.png" alt="Banner" width="70%" />
   </a>
 </div>
 
