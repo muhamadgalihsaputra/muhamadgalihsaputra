@@ -45,7 +45,7 @@
 
 I'm Galih, and I focus on observing patterns, learning continuously, and building systems that should exist to solve real-world problems. Most of my work right now is split between Galyarder Labs and Niyatna, focusing on autonomous AI agents, workflow automation, and the systems that make companies agentic. I focus on creating systems that immediately useful, clean, and built to last.
 
-To build these, I focus on local-first architectures, context-aware knowledge systems, and dedicated command rooms for internal operations. I design custom finance and operations infrastructure to provide clarity to business processes, and when ownership or decentralized verification is required, I integrate cryptography and Web3.
+To build these, I focus on local-first architectures, context-aware knowledge systems, and dedicated command rooms for internal operations. I design custom finance and operations infrastructure to provide clarity to business processes, and when ownership or decentralized verification is required, I integrate cryptography and blockhain.
 
 In all my projects, I prioritize concrete utility and quality over speculative noise. I believe that good systems rely on having a clear state, comprehensive logs, robust tests, and thorough reviews. I prefer shipping in small, vertical iterations that deliver value quickly rather than building over-engineered systems. Ultimately, I design systems to empower human intent and reclaim human time through the leverage of technology, especially AI, while fostering true ownership, patience, and continuous long-term improvement in everything I build.
 
